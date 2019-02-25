@@ -1,3 +1,6 @@
+!REPO is moved to stash: https://stash.merck.com/projects/MAD/repos/gssapi/browse
+!Please do not use this repository anymore
+
 # Ruby GSSAPI Library
 
 This is a wrapper around the system GSSAPI library (MIT only at this time).  It exposes the low-level GSSAPI methods like gss_init_sec_context and gss_wrap and also provides an easier to use wrapper on top of this for common usage scenarios.
